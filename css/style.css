@@ -269,8 +269,8 @@ legend {
   color: inherit;
   white-space: normal; }
 
-progress {
-  
+progress .progress-bar {
+  height: 10%;
   vertical-align: baseline; }
 
 [type="number"]::-webkit-inner-spin-button,
